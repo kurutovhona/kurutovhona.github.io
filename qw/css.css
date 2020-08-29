@@ -1,0 +1,21 @@
+p{
+    text-align: justify;
+    text-decoration: underline;
+    text-transform: uppercase;
+    color: white;
+    font-style: inherit;
+    font-weight: bold;
+    font-family:  cursive; 
+    font-variant: normal;
+}body{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 0;
+    background-image: url("../../html/fotos/e63.jpg") ;
+    background-repeat: no-repeat ;
+    background-position: top center;
+    background-color: #2f2649;
+    border: double 2px aqua;
+    
+    
+}
